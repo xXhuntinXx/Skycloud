@@ -1,5 +1,5 @@
-# Cloud_Attendance_System
-Cloud based student attendance system
+# Sky Cloud
+Your Cloud-Based Timekeeper for Students/Employees
 
 Architecture
 ---------------
